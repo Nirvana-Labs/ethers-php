@@ -1,0 +1,9 @@
+{
+  "name": "nirvana-labs/ethers-php",
+  "description": "An implementation of ethers.js using PHP. Created by Nirvana Labs.",
+  "require": {
+    "sc0vu/web3.php": "dev-master",
+    "web3p/ethereum-tx": "dev-master"
+  },
+  "minimum-stability": "dev"
+}
